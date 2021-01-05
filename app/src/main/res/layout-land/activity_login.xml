@@ -58,9 +58,10 @@
         android:id="@+id/imageView2"
         android:layout_width="143dp"
         android:layout_height="143dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="44dp"
         android:src="@drawable/ipvcestglogo"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.098"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="VectorDrawableCompat" />
@@ -69,10 +70,11 @@
         android:id="@+id/imageView"
         android:layout_width="143dp"
         android:layout_height="143dp"
-        android:layout_marginBottom="40dp"
+        android:layout_marginBottom="176dp"
         android:src="@drawable/ersclogo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.875"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="VectorDrawableCompat" />
 
